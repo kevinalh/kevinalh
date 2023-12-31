@@ -10,6 +10,8 @@ databases are Postgres, Snowflake and DuckDB.
 Every once in a while active on [Stack Overflow](https://stackoverflow.com/users/2616577/) and the other Stack
 Exchange network sites.
 
+<a href="https://stackexchange.com/users/3090317"><img src="https://stackexchange.com/users/flair/3090317.png" width="208" height="58" alt="profile for Kevin Languasco on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kevin Languasco on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 ### Music
 
 I'm passionate about music, tracking the music I listen to everyday since 2014 on my [Last.fm](https://www.last.fm/user/kevinalh)
