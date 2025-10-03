@@ -4,8 +4,8 @@ I'm Kevin, a Distributed Systems Engineer based in London. Originally from Peru.
 
 ### Tech
 
-I'm familiar with AWS and GCP as cloud platforms, Kafka as data transport, and Airflow for orchestration.
-My favorite databases are Postgres, Snowflake, DuckDB, and ClickHouse.
+Some of the databases I've used are Postgres, Snowflake, DuckDB, and ClickHouse.
+Nowadays I mostly code in Python, Golang and Rust.
 
 Every once in a while active on [Stack Overflow](https://stackoverflow.com/users/2616577/) and the other Stack
 Exchange network sites.
